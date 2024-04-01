@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diljan</h1>
-<h3 align="center">MERN Stack Deb</h3>
+<h3 align="center">MERN Stack Dev</h3>
 
 - 📫 How to reach me **mohddiljan47@gmail.com**
 
